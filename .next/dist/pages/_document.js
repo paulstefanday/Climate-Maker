@@ -1,4 +1,4 @@
 'use strict';
 
-module.exports = require('/Users/paulday/Sites/Climate-Maker/node_modules/next/dist/server/document.js');
+module.exports = require('/Users/paulday/Sites/climate-maker/node_modules/next/dist/server/document.js');
 //# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInVua25vd24iXSwibmFtZXMiOlsibW9kdWxlIiwiZXhwb3J0cyIsInJlcXVpcmUiXSwibWFwcGluZ3MiOiI7O0FBQUFBLE9BQU9DLE9BQVAsR0FBaUJDLE9BQWpCIiwiZmlsZSI6InVua25vd24iLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IHJlcXVpcmUoJ25leHQvZG9jdW1lbnQnKVxuIl19
